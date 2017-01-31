@@ -1,0 +1,12 @@
+body{padding-top:70px;}
+.carousel{
+  height:500px;
+  background-color:#000;
+}
+.carousel .item{
+  height:500px;
+  background-color:#000;
+}
+.carousel img{
+  width:100%;
+}
