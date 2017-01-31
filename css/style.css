@@ -1,4 +1,4 @@
-body{padding-top:70px;}
+body{padding-top:50px;}
 .carousel{
   height:500px;
   background-color:#000;
@@ -9,4 +9,9 @@ body{padding-top:70px;}
 }
 .carousel img{
   width:100%;
+}
+.carousel-caption p{
+  margin-bottom: 20px;
+  font-size: 20px;
+  line-height: 1.8;
 }
